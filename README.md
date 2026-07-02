@@ -15,3 +15,20 @@ I love coding and I'm currently learning **JavaScript** and **English** at PACC.
 
 ### 🌟 Fun Fact:
 - I'm learning the Turkish language! 🇹🇷
+
+## 🌸 Hobbies & Interests
+
+- ✍️ Creating beautiful calligraphy
+- 🗣️ Practicing English communication every day
+- 📚 Passionate about learning English
+- 🌍 Love traveling and exploring new places
+- 💻 Building coding projects
+- 🎨 Creating designs in Canva
+- 💡 Always excited to learn something new
+- personal value:
+✨ Consistency
+📚 Continuous Learning
+🤝 Teamwork
+💪 Hard Work
+🎯 Growth Mindset
+🚀 Self Improvement  
